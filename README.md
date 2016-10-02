@@ -16,15 +16,15 @@ Master Algorithmic Programming Techniques. Learn algorithms through programming
 ```
 WEEK 1
 Welcome
-[ ] A plus B
-[ ] Maximum Pairwise Product
+[x] A plus B
+[x] Maximum Pairwise Product
 
 WEEK 2
 Introduction
-[ ] Logarithms
-[ ] Big-O
-[ ] Growth rate
-[ ] Programming Assignment 1: Introduction
+[x] Logarithms
+[x] Big-O
+[x] Growth rate
+[x] Programming Assignment 1: Introduction
 
 WEEK 3
 Greedy Algorithms

@@ -28,9 +28,9 @@ Introduction
 
 WEEK 3
 Greedy Algorithms
-[ ] Greedy Algorithms
-[ ] Fractional Knapsack
-[ ] Programming Assignment 2: Greedy Algorithms
+[x] Greedy Algorithms
+[x] Fractional Knapsack
+[x] Programming Assignment 2: Greedy Algorithms
 
 WEEK 4
 Divide-and-Conquer

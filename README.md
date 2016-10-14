@@ -35,7 +35,7 @@ Greedy Algorithms
 WEEK 4
 Divide-and-Conquer
 [x] Linear Search and Binary Search
-[ ] Polynomial Multiplication
+[x] Polynomial Multiplication
 [ ] Master Theorem
 [ ] Sorting
 [ ] Quick Sort

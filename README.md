@@ -35,11 +35,11 @@ Greedy Algorithms
 WEEK 4
 Divide-and-Conquer
 [x] Linear Search and Binary Search
-[ ] Polynomial Multiplication
-[ ] Master Theorem
-[ ] Sorting
-[ ] Quick Sort
-[ ] Programming Assignment 3: Divide and Conquer
+[x] Polynomial Multiplication
+[x] Master Theorem
+[x] Sorting
+[x] Quick Sort
+[x] Programming Assignment 3: Divide and Conquer
 
 WEEK 5
 Dynamic Programming

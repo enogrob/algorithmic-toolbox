@@ -43,7 +43,7 @@ Divide-and-Conquer
 
 WEEK 5
 Dynamic Programming
-[ ] Change Money
+[x] Change Money
 [ ] Edit Distance
 [ ] Knapsack
 [ ] Maximum Value of an Arithmetic Expression

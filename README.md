@@ -44,10 +44,10 @@ Divide-and-Conquer
 WEEK 5
 Dynamic Programming
 [x] Change Money
-[ ] Edit Distance
-[ ] Knapsack
-[ ] Maximum Value of an Arithmetic Expression
-[ ] Programming Assignment 4: Dynamic Programming
+[x] Edit Distance
+[x] Knapsack
+[x] Maximum Value of an Arithmetic Expression
+[x] Programming Assignment 4: Dynamic Programming
 ```
 
 
